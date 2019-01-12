@@ -1,5 +1,5 @@
 # OPLA Site
-The OPLA repository contains everything needed to roll out your own basic site for an EOC organized into the standard ICS sections: Operations, Planning, Logistics, Admin (OPLA).
+The OPLA repository contains everything needed to roll out your own basic site for an Emergency Operations Center (EOC) organized into the standard Incident Command System (ICS) sections: Operations, Planning, Logistics, Admin (OPLA).
 
 OPLA is also the eoc.online community's first, initial demonstration of our concept. Although FEMA's NIMS 2017 Revision (https://www.fema.gov/national-incident-management-system) documented the utiliy of other organizational structures, most EOC's likely model themselves on the standard Incident Command System organizational structure of having an Incident Commander with a Operations, Planning, Logistics, and Administration (OPLA) Sections reporting to her.
 
